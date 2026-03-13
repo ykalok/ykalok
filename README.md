@@ -1,35 +1,35 @@
-# Hi 👋 I'm Alok Yadav
+# Hi, I'm Alok Yadav 👋
 
-Backend Engineer | Java | Spring Boot | Microservices
+Backend Engineer with 5+ years of experience building scalable backend systems using Java and Spring Boot.
 
-## 🚀 Skills
+## Tech Stack
 
-**Programming Languages**
-- Java
-- SQL
+* Java
+* Spring Boot
+* Microservices
+* Redis
+* Kafka
+* SQL
 
-**Backend Technologies**
-- Spring Boot
-- REST APIs
-- Microservices Architecture
+## Areas of Interest
 
-**Databases**
-- MySQL
-- Redis
+* Distributed Systems
+* Scalable Backend Architecture
+* System Design
+* Performance Optimization
 
-**Messaging Systems**
-- Apache Kafka
+## Featured Repositories
 
-**Tools**
-- Docker
-- Git
-- Maven
+* backend-interview-preparation
+* system-design-java
+* distributed-systems-notes
 
-**Concepts**
-- System Design
-- Distributed Systems
-- Rate Limiting
-- Caching
+## Currently Learning
+
+* Advanced System Design
+* Distributed Architecture Patterns
+* High Performance Backend Systems
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
